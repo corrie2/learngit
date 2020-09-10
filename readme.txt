@@ -6,5 +6,4 @@ iiiii
 git is free
 git tracks changes
 git tracks changes of files
-creating a new branch is quick
-
+creating a new branch is quick AND simple
